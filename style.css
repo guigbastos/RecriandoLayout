@@ -68,4 +68,6 @@ h1 span {
 
 #wave {
   margin: 40.83px auto 0px;
+  position: absolute;
+  width: 100%;
 }
